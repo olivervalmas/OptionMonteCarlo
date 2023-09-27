@@ -1,3 +1,4 @@
+
 import numpy as np
 M = 10000000
 samples = np.exp(np.random.normal(0, 1, M))
